@@ -1,0 +1,6 @@
+{
+  "name": "SquadVoice",
+  "description": "Real-time gaming voice chat platform with live voice modifiers, soundboard effects, customizable reaction emojis, and low-latency squad channels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
